@@ -1,4 +1,4 @@
-###  - Solution à la Imprimantee 3D
+###  - Solution à l'Imprimante 3D
 
 Nous avons fait valider [ce modèle ](https://www.thingiverse.com/thing:4235970) par l'hôpital CHU Saint-Pierre à Bruxelles.
 
