@@ -19,7 +19,7 @@ Nous avons fait valider [ce modèle de chez Thingiverse conçu par LadyLibertyHK
 ##### Etape 1 - Découpe de la structure
 
 Téléchargez les fichiers SVG optimisés pour une plaque 100x60cm ci-dessous et découpez-les à la découpeuse laser.
-* [SVG 30 pièces (100x60cm)](./Mask_30pcs.svg)
+* [SVG 36 pièces (100x60cm)](./Mask_36pcs.svg)
 
 
 ![](./images/P2-36Masks.png)
