@@ -7,12 +7,13 @@ Nous avons fait valider [ce modèle ](https://www.thingiverse.com/thing:4235970)
 
 #### Matériel
 
-* Liste du materiel
+* Liste
  * PLA/PLEG
  * A4 Transparent rigide
  * Elastique
  * Colle ou pistolet à colle
-*Features
+
+* Features
  * Optimissation temps d'impression
  * Plusieurs tailles d'impression
  * Multiple Impression
