@@ -26,7 +26,7 @@ Version améliorer des RC1 Prusia Faceshield validé par l'hôpital CHU Saint-Pi
 
 ##### Etape 1 - Découpe de la structure
 
-Inspiré du masque de protection créé par [Prusa](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files), nous avons développé une version plus légère et plus rapide à produire vu les contraintes de temps.
+[Prusa](https://www.prusaprinters.org/prints/26427-prusa-protective-face-shield-rc1-rc2-remix-rc3-eas/files), nous avons développé une version plus légère et plus rapide à produire vu les contraintes de temps.
 
 ![](./images/shield1.PNG)
 
