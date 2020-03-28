@@ -2,8 +2,8 @@
 
 LAST Update 28/03/2020: Sources v7: [part1](https://github.com/resistancecovid-com/faceshield/raw/master/faceshield_3DPrinting/faceshield_1.0.7/shield-face-protection-single-rc3_v7_large_part1.stl) & [part2](https://github.com/resistancecovid-com/faceshield/raw/master/faceshield_3DPrinting/faceshield_1.0.7/shield-face-protection-single-rc3_v7_large_part2.stl)
 
-![](https://github.com/resistancecovid-com/faceshield/blob/master/faceshield_3DPrinting/faceshield_1.0.7/shield-face-protection-single-rc3_v7_large_part1.stl)
-![](https://github.com/resistancecovid-com/faceshield/blob/master/faceshield_3DPrinting/faceshield_1.0.7/shield-face-protection-single-rc3_v7_large_part2.stl)
+![](./faceshield_1.0.7/shield-face-protection-single-rc3_v7_large_part1.stl)
+![](./faceshield_1.0.7/shield-face-protection-single-rc3_v7_large_part2.stl)
 
 
 Nous avons fait valider [ce modèle ](https://www.thingiverse.com/thing:4235970) par l'hôpital CHU Saint-Pierre à Bruxelles.
