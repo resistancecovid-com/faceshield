@@ -2,7 +2,7 @@
 
 LAST Update 01/04/2020: Sources v9: [Latest](https://github.com/resistancecovid-com/faceshield/raw/master/faceshield_3DPrinting/latest) 
 
-####A PROPOS
+#### A PROPOS
 Comme nous imprimons en gros pour répondre à la demande urgente, nous avions besoin d'un modèle rapide.
 Nous avons donc remixé celui-ci.
 Il est relativement rapide à imprimer, ne consomme pas beaucoup de plastique et est confortable dans la tête, trois atouts majeurs. De plus, il ne nécessite pas de feuille de plastique pré-perforée et il COUVRE LA TÊTE, ce qui est très important et généralement omis par les modèles largement disponibles pour l'impression 3D.
@@ -28,8 +28,7 @@ Nous avons fait valider [ce modèle ](https://www.thingiverse.com/thing:4235970)
  * Multiple Impression
 * Temps de production : 41min
 
-
-Version améliorer des RC1 Prusia Faceshield validé par l'hôpital CHU Saint-Pierre à Bruxelles.
+Version améliorer des RC1,RC2,RC3 Prusia Faceshield validé par l'hôpital CHU Saint-Pierre à Bruxelles.
 
 #### Processus de fabrication
 
@@ -55,23 +54,23 @@ Il s'agit simplement d'une référence basée sur les paramètres originaux de #
  *Pas de support & Brim nécessaire
 
 
-####!!!TEMPS D'IMPRESSION !!!
+#### TEMPS D'IMPRESSION 
 
-####FOR 3Dmakers XY (150x150):
+#### FOR 3Dmakers XY (150x150):
 
-!!!! 41min !!!! (145x145x5 fix model SUPERFAST BUT POOR CONFORTABLE)
+ *41min  (145x145x5 fix model SUPERFAST BUT POOR CONFORTABLE)
  *1h00min (145x145x8 fix model MEDIUM CONFORTABLE)
  *1H10min (145x145x10 fix model GOOD CONFORTABLE)
  *1h23min (145x145x12.5 fix model PERFECT CONFORTABLE)
 
-####POUR 3Dmakers XY(250x210) :
+#### POUR 3Dmakers XY(250x210) :
 
-!!!! 50min !!!! (145x180x5 fix model FAST BUT POOR CONFORTABLE)
+ *50min  (145x180x5 fix model FAST BUT POOR CONFORTABLE)
  *1h10min (145x180x8 fix model POOR CONFORTABLE)
  *1H20min (145x180x10 fix model MEDIUM CONFORTABLE)
  *1h35min (145x180x12.5 fix model GOOD CONFORTABLE)
 
-####PRUSA MK3S Créalité CR10 I3 MENDEL 2016
+#### PRUSA MK3S Créalité CR10 I3 MENDEL 2016
 * Périmètres : 100 mm/s 60 mm/s 45 mm/s
 * Petits périmètres : 80 mm/s 60 mm/s 45 mm/s
 * Périmètres extérieurs : 80 mm/s 60 mm/s 45 mm/s
@@ -84,7 +83,7 @@ Il s'agit simplement d'une référence basée sur les paramètres originaux de #
 * Déplacement : 180 mm/s 80 mm/s 80 mm/s
 
 
-####Paramètres d'impression
+#### Paramètres d'impression
 
  *Marque d'imprimante : Prusa
  *Imprimeur : I3 MK3S
