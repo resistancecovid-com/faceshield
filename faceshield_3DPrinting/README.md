@@ -1,9 +1,11 @@
 ###  - Solution à l'Imprimante 3D
 
-LAST Update 28/03/2020: Sources v7: [part1](https://github.com/resistancecovid-com/faceshield/raw/master/faceshield_3DPrinting/faceshield_1.0.7/shield-face-protection-single-rc3_v7_large_part1.stl) & [part2](https://github.com/resistancecovid-com/faceshield/raw/master/faceshield_3DPrinting/faceshield_1.0.7/shield-face-protection-single-rc3_v7_large_part2.stl)
+LAST Update 01/04/2020: Sources v9: [Latest](https://github.com/resistancecovid-com/faceshield/raw/master/faceshield_3DPrinting/latest) 
 
-![](./faceshield_1.0.7/shield-face-protection-single-rc3_v7_large_part1.stl)
-![](./faceshield_1.0.7/shield-face-protection-single-rc3_v7_large_part2.stl)
+#RESISTANCECOVID RC4 - covid coronavirus Prusa Protective Face Shield - RC1 RC2 RC3 RC3.1 - 
+NO ELASTIC  
+NO HOLE  
+!!!41min!!! 
 
 
 Nous avons fait valider [ce modèle ](https://www.thingiverse.com/thing:4235970) par l'hôpital CHU Saint-Pierre à Bruxelles.
@@ -17,14 +19,13 @@ Nous avons fait valider [ce modèle ](https://www.thingiverse.com/thing:4235970)
 * Liste
  * PLA/PLEG
  * A4 Transparent rigide
- * Elastique
  * Colle ou pistolet à colle
 
 * Features
  * Optimissation temps d'impression
  * Plusieurs tailles d'impression
  * Multiple Impression
-* Temps de production : 30 minute a 2H par masque
+* Temps de production : 41min
 
 
 Version améliorer des RC1 Prusia Faceshield validé par l'hôpital CHU Saint-Pierre à Bruxelles.
